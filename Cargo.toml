@@ -1,0 +1,10 @@
+[package]
+name = "week_7"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+reqwest = "0.12.9"
+tokio = { version = "1", features = ["full"] }
+
